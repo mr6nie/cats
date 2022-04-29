@@ -34,6 +34,8 @@ DJANGO_APPS = [
 
 THIRD_PARTY_APPS = [
     "rest_framework",
+    'drf_yasg',
+    'phonenumber_field',
     # "djoser",
     # "rest_framework_simplejwt",
 ]
